@@ -9,6 +9,10 @@
 * [Trailer](trailer-and-gameplay/trailer.md)
 * [Gameplay](trailer-and-gameplay/gameplay.md)
 
+## DAO Voting
+
+* [LaunchPad](dao-voting/launchpad.md)
+
 ## NFT
 
 * [NFT](nft/nft.md)
@@ -24,7 +28,3 @@
 ## Roadmap
 
 * [Roadmap](roadmap/roadmap.md)
-
-## DAO Voting
-
-* [LaunchPad](dao-voting/launchpad.md)

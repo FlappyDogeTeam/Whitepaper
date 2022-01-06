@@ -2,7 +2,7 @@
 
 * [Overview](README.md)
 * [Whitepaper](whitepaper.md)
-* [Marketplace](marketplace.md)
+* [Marketplace & NFTs](marketplace-and-nfts.md)
 
 ## Trailer & gameplay
 
@@ -12,10 +12,6 @@
 ## DAO Voting
 
 * [LaunchPad](dao-voting/launchpad.md)
-
-## NFT
-
-* [NFT](nft/nft.md)
 
 ## Team
 

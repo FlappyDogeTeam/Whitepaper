@@ -9,9 +9,9 @@
 * [Trailer](trailer-and-gameplay/trailer.md)
 * [Gameplay](trailer-and-gameplay/gameplay.md)
 
-## DAO Voting
+## DAO Voting & Launchpad
 
-* [LaunchPad](dao-voting/launchpad.md)
+* [LaunchPad & Dao](dao-voting-and-launchpad/launchpad-and-dao.md)
 
 ## Team
 

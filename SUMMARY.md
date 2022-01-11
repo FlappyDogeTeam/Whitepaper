@@ -10,9 +10,14 @@
 * [Trailer](trailer-and-gameplay/trailer.md)
 * [Gameplay](trailer-and-gameplay/gameplay.md)
 
+***
+
+* [Fraud Detection — “Gaming” the system](fraud-detection-gaming-the-system.md)
+
 ## DAO Voting & Launchpad
 
 * [LaunchPad & Dao](dao-voting-and-launchpad/launchpad-and-dao.md)
+* [Multi-Chain Strategy](dao-voting-and-launchpad/multi-chain-strategy.md)
 
 ## Team
 

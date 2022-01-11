@@ -30,3 +30,4 @@
 ## Roadmap
 
 * [Roadmap](roadmap/roadmap.md)
+* [Disclaimers](roadmap/disclaimers.md)

@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
+* [What is FlappyDoge](what-is-flappydoge.md)
 * [Whitepaper](whitepaper.md)
 * [Marketplace & NFTs](marketplace-and-nfts.md)
 

@@ -1,15 +1,14 @@
 # Team
 
-The team is is doxed and very popular in the crypto community.
+The team&#x20;
 
+CEO: Joe - Joe has expertise in the early stages of web 1.0 and web 2.0 been in the crypto community since early 2016 aswell as advisor for several other projects
 
+COO: Xander - Xander has been the back-up man for Joe as they been in crypto community together xander specialises on mathematics and is the key player for the tokenomics of flappydoge.
 
-Our CEO Joe has over 20 years experience in IT and 5 years experience in crypto
+Developers: Narsun studio partnership , narsun studio is very well known in the crypto gaming community most recently known for dogedash which reached a 300 Million MC.
 
-CMO Xander has 30 years experience in market management&#x20;
+Moderators: Salvador, Mike, Andy, Jhon, Hoi is part the moderators of the community they also act in parts of marketing so their roles are multi
 
-Narsun Studios is our partner for the game which help created dogedash which peaked at 300 Million MC
+advisors: Advisors for the project stay hidden due to their contracts with other projects the most we can say is that they reached a 1 billion mc for each of their own tokens.
 
-Other team members are Moderators and advisors, some of the community has already figured out who the advisors are but we would like them to stay anonymous despite rumours as we respect their own very successful projects.
-
-FlappyDoge team is full of crypto revolutionaries swell

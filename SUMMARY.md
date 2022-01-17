@@ -4,6 +4,7 @@
 * [What is FlappyDoge](what-is-flappydoge.md)
 * [Whitepaper](whitepaper.md)
 * [Marketplace & NFTs](marketplace-and-nfts.md)
+* [Metaverse](metaverse.md)
 
 ## Trailer & gameplay
 

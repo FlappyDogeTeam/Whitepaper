@@ -28,5 +28,5 @@ Q4 2023 - Company Office in Dubai and London
 
 
 
-Please note we have not mentioned marketing in the roadmap but marketing is a crucial step for all of FlappyDoge roadmap. Please check any news article or medium articles we post regarding our marketing and internals which we is updated quarterly.
+Please note we have not mentioned marketing in the roadmap but marketing is a crucial step for all of FlappyDoge roadmap. Please check any news article or medium articles we post regarding our marketing and internals which  is updated quarterly.
 

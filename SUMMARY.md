@@ -2,7 +2,6 @@
 
 * [Overview](README.md)
 * [What is FlappyDoge](what-is-flappydoge.md)
-* [Whitepaper](whitepaper.md)
 * [Marketplace & NFTs](marketplace-and-nfts.md)
 * [Metaverse](metaverse.md)
 
@@ -24,9 +23,10 @@
 
 * [Team](team/team.md)
 
-## Tokenomics
+## Tokenomics & Marketing
 
-* [Tokenomics](tokenomics/tokenomics.md)
+* [Tokenomics](tokenomics-and-marketing/tokenomics.md)
+* [Marketing](tokenomics-and-marketing/marketing.md)
 
 ## Roadmap
 

@@ -10,7 +10,7 @@ December 2021 - Launch
 
 Q1 2022 - Cinematic trailer, Gameplay trailer, Beta gameplay. Saudi and Sanfransico crypto events
 
-Q2 2022 - Mobile Beta release, test phase of market nft launch and later on end of Q2 2022 have a full launch for NFT marketplace and mobile version of FlappyDoge
+Q2 2022 - Mobile Beta release, test phase of market nft launch and later on end of Q2 2022 have a full launch for NFT marketplace and mobile version of FlappyDoge, Token Migration to happen sometime in July 2022 with a new smart contract and 0% fees for the community
 
 Q3 2022- Dao community integration&#x20;
 

@@ -28,6 +28,10 @@
 * [Tokenomics](tokenomics-and-marketing/tokenomics.md)
 * [Marketing](tokenomics-and-marketing/marketing.md)
 
+***
+
+* [Ecosystem](ecosystem.md)
+
 ## Roadmap
 
 * [Roadmap](roadmap/roadmap.md)

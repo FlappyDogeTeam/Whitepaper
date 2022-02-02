@@ -1,5 +1,5 @@
 ---
-description: More information related to Metaverse can be found under ecosystem
+description: This section is not complete but will be updated as time progresses
 ---
 
 # Metaverse

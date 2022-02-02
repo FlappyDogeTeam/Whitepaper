@@ -7,3 +7,5 @@ First, our strategy incorporates community development and strong community conn
 Second, our marketing team will use the full spectrum of crypto marketing tools, such as raids, dex tools, trending dex, in concert with already-established influence in multiple social media networks.  Our network access expands beyond typical starting channels due to the strong network the leadership brings to the marketing plan, and aggressive expansion of campaigns will commence as market cap goals and game development succeed.
 
 Finally, where other tokens stop at these remote sources of influence, we will expand promotion efforts to real-world ads and banners to create interest and engagement and draw users into the FlappyDoge crypto-gaming metaverse that is being developed around the token.
+
+Our Marketing will change in July 2022 as we plan to remove the tax fees. Please head over to the roadmap for more information

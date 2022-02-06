@@ -1,5 +1,5 @@
 ---
-description: This section is not complete but will be updated as time progresses
+description: More information related to Metaverse can be found under ecosystem
 ---
 
 # Metaverse
@@ -29,3 +29,8 @@ Other ways to earn and utilize FlappyDoge tokens will include, but not be limite
 •             Online Lobby
 
 •             VR Lobby
+
+
+
+Here is a spider-chart of all the possible revenues to be seen in the metaverse for FlappyDoge and partners who decide to join
+

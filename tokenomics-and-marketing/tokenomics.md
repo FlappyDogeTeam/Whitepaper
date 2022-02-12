@@ -19,3 +19,5 @@ Total supply of 2 billion (2,000,000,000) FlappyDoge ($FLPD) tokens:
 15% Partnership Development
 
 5%    CEX Incentivization
+
+![](../.gitbook/assets/meta-chart.png)

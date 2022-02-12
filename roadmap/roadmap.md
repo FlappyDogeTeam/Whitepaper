@@ -14,11 +14,11 @@ Q2 2022 - Mobile Beta release, test phase of market nft launch and later on end 
 
 Q3 2022- Dao community integration&#x20;
 
-Q4 2022 - Metaverse partnerships and Metaverse Beta gameplay
+Q4 2022 - Metaverse partnerships and Metaverse Beta gameplay with separate roadmap which includes the ability to order fast food via the metaverse to come to your real homes subject to availability.
 
 Q1 2023 - First ever vote for upcoming game
 
-Q2 2023 - Beta version of game voted
+Q2 2023 - Beta version of the game voted
 
 Q3 2023 - Community Dao voting
 

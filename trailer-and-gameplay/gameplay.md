@@ -19,3 +19,5 @@ _**Play-2-Earn Rewards**_
 A set number of coins can be collected per day which incentivizes the structure of withdrawing and collection. There is also a withdrawal limit per account.  To enter a game, players can either play the free version to practice, or ante up some of their FlappyDoge to earn even more.
 
 Further information regarding the Play 2 Earn reward structure will be outlined later
+
+![Jungle Map](../.gitbook/assets/photo\_2022-02-12\_10-11-04.jpg)

@@ -21,7 +21,7 @@
 
 ***
 
-* [Charity](charity.md)
+* [Charity](page-1.md)
 * [Fundings on Scam projects](fundings-on-scam-projects.md)
 
 ## Team

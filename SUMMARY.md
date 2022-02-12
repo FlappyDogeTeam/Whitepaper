@@ -22,7 +22,7 @@
 ***
 
 * [Charity](page-1.md)
-* [Fundings on Scam projects](fundings-on-scam-projects.md)
+* [Charity Incentives](charity-incentives.md)
 
 ## Team
 

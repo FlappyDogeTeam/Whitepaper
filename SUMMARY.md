@@ -19,6 +19,10 @@
 * [LaunchPad & Dao](dao-voting-and-launchpad/launchpad-and-dao.md)
 * [Multi-Chain Strategy](dao-voting-and-launchpad/multi-chain-strategy.md)
 
+***
+
+* [Fundings on Scam projects](fundings-on-scam-projects.md)
+
 ## Team
 
 * [Team](team/team.md)

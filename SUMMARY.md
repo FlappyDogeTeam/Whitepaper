@@ -21,7 +21,6 @@
 
 ***
 
-* [Charity](page-1.md)
 * [Charity Incentives](charity-incentives.md)
 
 ## Team

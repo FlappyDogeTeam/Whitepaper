@@ -2,7 +2,7 @@
 description: A small incentive for users who have been scammed
 ---
 
-# Fundings on Scam projects
+# Charity Incentives
 
 Users who have been scammed/rugged from past projects are incentivised to sell their scam project if they could and purchase $FLPD and hold for a total 3 months in which whatvever they hold is topped up 10%
 

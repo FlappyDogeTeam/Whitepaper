@@ -1,32 +1,30 @@
 ---
-description: >-
-  Our accomplishments and roadmaps. Please note that these roadmaps is not 100%
-  certain in time frames
+description: Accomplishments and Roadmap
 ---
 
 # Roadmap
 
-December 2021 - Launch
+Please note that this roadmap should be recognized as a guideline and the timeline of events indicated may occur sooner or later than stated.
 
-Q1 2022 - Cinematic trailer, Gameplay trailer, Beta gameplay. Saudi and Sanfransico crypto events
+Q4 2021 - Token Launch (December 9, 2021)
 
-Q2 2022 - Mobile Beta release, test phase of market nft launch and later on end of Q2 2022 have a full launch for NFT marketplace and mobile version of FlappyDoge, Token Migration to happen sometime in July 2022 with a new smart contract and 0% fees for the community
+Q1 2022 - Cinematic trailer; Gameplay trailer; Saudi Arabia and San Francisco crypto events
 
-Q3 2022- Dao community integration&#x20;
+Q2 2022 - Mobile Beta release; Test phase of market NFTs; Full launch for NFT marketplace; Mobile version of FlappyDoge game
 
-Q4 2022 - Metaverse partnerships and Metaverse Beta gameplay with separate roadmap which includes the ability to order fast food via the metaverse to come to your real homes subject to availability.
+Q3 2022- Dao community integration; Token Migration (estimated July 2022) with a new smart contract and 0% fees for the community
 
-Q1 2023 - First ever vote for upcoming game
+Q4 2022 - Metaverse partnerships/Metaverse Beta gameplay with separate roadmap (to include the ability to order fast food within the metaverse, for delivery, subject to availability)
 
-Q2 2023 - Beta version of the game voted
+Q1 2023 - Initial vote for inclusion of upcoming new game in ecosystem
 
-Q3 2023 - Community Dao voting
+Q2 2023 - Beta version of the newly voted game
 
-Q4 2023 - Company Office in Dubai and London
+Q3 2023 - Community DAO voting implementation
 
-2024 - FlappyDoge ecosystem and services to franchise the name
+Q4 2023 - Official company offices opening in Dubai and London
 
+2024 - FlappyDoge ecosystem expansion/franchising
 
-
-Please note we have not mentioned marketing in the roadmap but marketing is a crucial step for all of FlappyDoge roadmap. Please check any news article or medium articles we post regarding our marketing and internals which  is updated quarterly.
+Please note that marketing will be integrated as needed. It is a critical and expected step that will be implemented at the marketing team’s discretion, as it relates to the FlappyDoge chain of events. However, it is intentionally not indicated in the stated roadmap, because marketing is contingent on several variables that cannot always be predicted. Please check any social media posts and/or news articles to learn about our past, present, and future marketing initiatives.
 

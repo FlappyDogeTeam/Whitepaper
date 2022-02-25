@@ -1,5 +1,7 @@
 ---
 description: we will update this section once we have a gameplay trailer
+cover: ../.gitbook/assets/photo_2022-02-22_14-30-11.jpg
+coverY: 0
 ---
 
 # Gameplay

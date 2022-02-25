@@ -3,7 +3,6 @@
 * [Overview](README.md)
 * [What is FlappyDoge](what-is-flappydoge.md)
 * [Marketplace & NFTs](marketplace-and-nfts.md)
-* [Metaverse](metaverse.md)
 
 ## Trailer & gameplay
 

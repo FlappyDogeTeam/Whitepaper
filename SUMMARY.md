@@ -21,7 +21,7 @@
 
 ***
 
-* [Charity Incentives](charity-incentives.md)
+* [Scam Victim Incentive Program](scam-victim-incentive-program.md)
 
 ## Team
 

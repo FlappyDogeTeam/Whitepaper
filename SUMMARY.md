@@ -29,7 +29,6 @@
 ## Tokenomics & Marketing
 
 * [Tokenomics](tokenomics-and-marketing/tokenomics.md)
-* [Marketing](tokenomics-and-marketing/marketing.md)
 
 ***
 

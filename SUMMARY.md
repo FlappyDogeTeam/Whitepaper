@@ -8,7 +8,7 @@
 
 * [Trailer](trailer-and-gameplay/trailer.md)
 * [Gameplay](trailer-and-gameplay/gameplay.md)
-* [Page 1](trailer-and-gameplay/page-1.md)
+* [Characters](trailer-and-gameplay/characters.md)
 
 ***
 

@@ -1,6 +1,6 @@
 # Tokenomics
 
-Total supply of 2 billion (2,000,000,000) FlappyDoge ($FLPD) tokens:
+Total supply of 1.5 Billion FlappyDoge ($) tokens:
 
 30% in game rewards
 
